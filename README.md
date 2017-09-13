@@ -1,7 +1,5 @@
 ## My Testing Github Pag
 Wow!
-
-#MyCode.java
 ``` java
 package com.lhw;
 
