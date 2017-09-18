@@ -1,4 +1,4 @@
-## My Testing Github Pag
+## My Testing Github Page
 Wow!
 ``` java
 package com.lhw;
@@ -12,4 +12,4 @@ nothing to mark...
 ##ho
 ###Shouting
 ```
-[http://gusdn2.github.io/](my github)
+[http://gusdn2.github.io/test](my github)
